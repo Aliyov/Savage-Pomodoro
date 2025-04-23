@@ -1,4 +1,4 @@
-# 🧠 Savage Pomodoro
+# 🧠 Savage Pomodoro (soon! ^_^)
 
 **Savage Pomodoro** is a modern, minimal, and powerful Pomodoro timer built for people addicted to focus. It helps you track your daily and weekly focus time, organized by topics or categories, making it ideal for students, developers, writers, and anyone striving to stay productive and intentional with their time.
 
