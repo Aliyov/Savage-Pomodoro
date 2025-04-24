@@ -4,7 +4,14 @@
 
 > 🚧 **Currently under development** – Full release coming soon. Stay tuned!
 
-![Image](https://github.com/user-attachments/assets/89e19d66-0b7b-4148-99a1-c16860cf0c41)
+![Image](https://github.com/user-attachments/assets/53bf0b9b-79e6-4254-a258-cda467c7eb60)
+
+
+![Image](https://github.com/user-attachments/assets/364502f9-1a3c-4442-83c6-640744e93bdb)
+
+
+![Image](https://github.com/user-attachments/assets/ffa4a9ec-4427-4b50-99d2-12341d0972c6)
+
 ---
 
 ## ✨ Features
