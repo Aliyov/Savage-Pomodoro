@@ -4,15 +4,16 @@
 
 > 🚧 **Currently under development** – Full release coming soon. Stay tuned!
 
-![Image](https://github.com/user-attachments/assets/3c2270c1-d1db-4b00-bb95-9e53fc8c80a9)
+![Image](https://github.com/user-attachments/assets/c055f858-d97d-4cfb-b7c6-0cd36ead669d)
 
-![Image](https://github.com/user-attachments/assets/88d99796-fa0b-472f-af8a-a7ce205ee310)
+![Image](https://github.com/user-attachments/assets/07dac5a9-762b-44f2-8661-5fe57ac7f238)
 
-![Image](https://github.com/user-attachments/assets/4b47cf47-8e70-474a-bf39-43f15bd74949)
+![Image](https://github.com/user-attachments/assets/ea5429eb-2568-4863-975f-b1205aa92d61)
 
-![Image](https://github.com/user-attachments/assets/d012657f-390e-4b92-8444-effb883c3670)
+![Image](https://github.com/user-attachments/assets/21651a31-82e8-4559-bae2-098d34d81218)
 
-![Image](https://github.com/user-attachments/assets/f574a20f-500b-41b8-994e-6444f704ac1a)
+![Image](https://github.com/user-attachments/assets/d17844c6-3911-496d-ba70-a912dc383fc3)
+
 
 ---
 
